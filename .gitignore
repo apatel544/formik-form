@@ -1,0 +1,6 @@
+/node_modules
+/package.json
+/package-lock.json
+/internal-documentation.md
+/startup_script.txt
+/instructions01.md
